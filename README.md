@@ -19,6 +19,8 @@ Steps to install and run the project:
 instructions for testing:
 
       Read the insturctions properly and provide the input correctly based on your need so that it is utilised properly.
+
+screenshots:
       
       <img width="1920" height="1200" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/877d2956-b68a-4a83-8bdd-9bb37d756035" />
 
